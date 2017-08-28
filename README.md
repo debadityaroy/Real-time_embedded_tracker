@@ -9,6 +9,10 @@ https://github.com/jbhuang0604/CF2
 Usage:
 python run_tracker.py video_name
 
+Download example data folder at 
+https://drive.google.com/open?id=0B80pwDELxpt5cThjNHk5c1pUVW8
+Create data folder in main directory and paste contents.
+
 Directions for creating input:
 
 1. Convert video into frames.
@@ -22,7 +26,8 @@ Directions for creating input:
             y = leftmost corner y position
             w = width of object
             h = height of object
-        
+
+
 Additional files:
 Keep in main folder
 
