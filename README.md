@@ -28,6 +28,7 @@ Keep in main folder
 
 Pretrained CNN model: VGG_CNN_S_deploy.prototxt
 https://gist.github.com/ksimonyan/fd8800eeb36e276cd6f9#file-vgg_cnn_s_deploy-prototxt
+
 Pretrained CNN prototxt : VGG_CNN_S.caffemodel
 http://www.robots.ox.ac.uk/~vgg/software/deep_eval/releases/bvlc/VGG_CNN_S.caffemodel
 
